@@ -1,0 +1,76 @@
+body {
+  margin: auto;
+  width: 60%;
+  background-color: aquamarine;
+}
+header {
+  display: flex;
+  justify-content: center;
+  background: blueviolet;
+  color: black;
+  text-align: center;
+  border-radius: 20px;
+}
+header ul li {
+  list-style: none;
+  font-style: italic;
+}
+section,
+form,
+ul,
+li,
+label {
+  font-size: 25px;
+  margin-top: 8px;
+  font-style: italic;
+  list-style: none;
+}
+h3 {
+  text-align: center;
+}
+
+button {
+  margin: 4px;
+  font-size: 25px;
+  border-radius: 8px;
+  color: black;
+  background-color: blueviolet;
+  font-style: italic;
+}
+table,
+th,
+td {
+  border: 2px solid blueviolet;
+  border-radius: 8px;
+  font-size: large;
+  font-style: italic;
+}
+#criar {
+  border-radius: 5px;
+  background-color: blueviolet;
+  padding: 10%;
+  padding-right: 15px;
+  border-radius: 20px;
+  padding-bottom: 10px;
+
+  font-style: italic;
+}
+.email {
+  border-radius: 6px;
+  padding-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.senha {
+  border-radius: 6px;
+  padding-bottom: 10px;
+  font-family: Arial;
+}
+.entrar {
+  border-radius: 7px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin-left: 394px;
+  margin-bottom: 6px;
+  margin-top: 8px;
+  font-family: Arial;
+}
